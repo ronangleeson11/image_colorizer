@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# JetBrains
+.idea/
+
+# Dataset (too big for git)
+cifar-100-python.tar.gz
